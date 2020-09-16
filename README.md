@@ -3,4 +3,7 @@ The TC2E-GF-118 Golden Formula Paraflex subwoofer was originaly designed by Matt
 
 The TC2E-GF-118 subwoofer is based on a low and high tuned resonator making the design very efficient in it's bandwidth, which was named **Paraflex** for easy naming. Many prototypes and design revisions have been made by members of the HOQWS, continualy improving the design of the cabinet and its different versions.
 
-Other designs using the Paraflex principles where made for midrange and infrasonic frequency ranges. There are always new concepts and designs in progress on the [HOQWS facebook page](https://www.facebook.com/groups/bassaz/). You're welcome to chat
+Other designs using the Paraflex principles where made for midrange and infrasonic frequency ranges. There are always new concepts and designs in progress on the [HOQWS facebook page](https://www.facebook.com/groups/bassaz/). You're welcome to chat.
+
+![Design](https://github.com/High-Order-Quarterwave-Society/TC2E-GF-118/blob/master/PARAFLEX-C-2E-Golden-Formula-118-design.jpg)
+![Modal view](https://github.com/High-Order-Quarterwave-Society/TC2E-GF-118/blob/master/PARAFLEX-C-2E-Golden-Formula-118-modal.jpg)

@@ -19,5 +19,5 @@ Other designs using the Paraflex principles where made for midrange and infrason
 ![Modal view](https://github.com/High-Order-Quarterwave-Society/TC2E-GF-118/blob/master/PARAFLEX-C-2E-Golden-Formula-118-modal.jpg)
 
 
- #### Honereable contributers and people from all arround the world who shared their knowledge, time, testing builds, prototyping, art work, design work and so much more to the HOQWS:
+ #### Honerable contributers and people from all arround the world who shared their knowledge, time, testing builds, prototyping, art work, design work and so much more to the HOQS group:
 Ty Cention, Josh Mullins, Philip van Heijningen, Patrick Sander, Val Boodram, Justin Crescendo, Angel Garabitos Romero, Jason Geban, Andre Schrock, Casey Raynes, Conor Noakes, Nicolai Grymer and many more.

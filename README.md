@@ -22,7 +22,7 @@ A mouth brace has now been included to reduce flex in the mouth exit area, and w
 Dimensions shall be 1200 x 915 x 600 milimeters and shall have 658 Liters Gross volume. The unloaded weight shall be 97Kg / 213Lbs.
 
 ## Working range
-The TC2E-GF-118 has a 35Hz (Fb) tuning and has a working range shall be 30hz to 180hz. Recomended crossover setting depends on the driver used, but a basic setting can be set with a 26-30hz 24dB/Butterworth Highpass filter (24dB/BW HPF) and a 75-160hz Butterworth 4th order low pass filter (24dB/BW LPF). We encourage the user to adjust the frequency range and filters based on their application.
+The TC2E-GF-118 has a 35Hz (Fb) tuning and the working range shall be 30hz to 180hz. Recomended crossover setting depends on the driver used, but a basic setting can be set with a 26-30hz 24dB/Butterworth Highpass filter (24dB/BW HPF) and a 75-160hz Butterworth 4th order low pass filter (24dB/BW LPF). We encourage the user to adjust the frequency range and filters based on their application.
 
 ## PDF
 [You can download the PDF here](https://github.com/High-Order-Quarterwave-Society/TC2E-GF-118-35Hz-Subwoofer/blob/master/PARAFLEX%20C-2E%20Golden%20Formula%201x18%20v42.11.pdf)

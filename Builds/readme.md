@@ -1,6 +1,6 @@
 # Build-logs TC2E-GF-118
 
-A selection of Paraflex TC2E-GF-118 builds form around the world
+A selection of Paraflex TC2E-GF-118 builds from around the world
 
 ![builds-001](https://github.com/High-Order-Quarterwave-Society/TC2E-GF-118-35Hz-Subwoofer/blob/master/Builds/build-001.jpg)
 ![builds-002](https://github.com/High-Order-Quarterwave-Society/TC2E-GF-118-35Hz-Subwoofer/blob/master/Builds/build-002.jpg)

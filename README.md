@@ -7,7 +7,13 @@ The Paraflex subwoofer is based on a low and high tuned resonator making the des
 The Golden Formula series of Paraflex subwoofers achieves improved performance by the use of a Throat Chamber in conjunction with an increased rate of expansion in the Low-Tuned Horn resonator section. This increased gain/sensitivity & output within the cabinet's working range, typically comes at the cost of sacrificing some surplus upper extension and can also often require a larger cabinet size. 
 
 ### updates
-The TC2E-GF-118 Revision 42.11 is the latest update for the TC2E-GF-118, The revision updates include tuning of the HTR and added improvements of the cabinents mouth braces. 
+The TC2E-GF-118 Revision 42.11 is the latest update for the TC2E-GF-118.
+####Folded High-Tune Resonator (HTR)
+New 410mm long 45 degree angle-brace panels (which also serve as the folded & offset portion of the high-tuned resonator) have increased the upper frequency extension (cut-off) to 180hz and improved the cabinet's phase response, transient response, and impulse response, while reducing gd & decay times in the cabinet's upper working range above 80hz.
+#### HTR filling
+Acoustic damping material such as polyester fiberfill should be added to the angle braces. insert the damping material until it fills up 50% to 60% of the angle-brace's internal volume beginning from the end caps. 
+#### Mmouth brace update
+A mouth brace has now been included to reduce flex in the mouth exit area, and with the updated merge bracing shape; a b&c 18ds115 is capable of fitting past on an angle. longer drivers will require shortening the brace or making it removable.
 
 ### Dimensions / Volume
 Dimensions shall be 1200 x 915 x 600 milimeters and shall have 658 Liters Gross volume. The unloaded weight shall be 97Kg / 213Lbs.

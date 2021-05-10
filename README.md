@@ -15,7 +15,7 @@ Dimensions shall be 1200 x 915 x 600 milimeters and shall have 658 Liters Gross 
 The TC2E-GF-118 has a 35Hz (Fb) tuning and has a working range shall be 30hz to 180hz. Recomended crossover setting depends on the driver used, but a basic setting can be set with a 26-30hz 24dB/Butterworth Highpass filter (24dB/BW HPF) and a 75-160hz Butterworth 4th order low pass filter (24dB/BW LPF). We encourage the user to adjust the frequency range and filters based on their application.
 
 # PDF
-![You can download the PDF here](https://github.com/High-Order-Quarterwave-Society/TC2E-GF-118-35Hz-Subwoofer/blob/master/PARAFLEX%20C-2E%20Golden%20Formula%201x18%20v42.11.pdf)
+[You can download the PDF here](https://github.com/High-Order-Quarterwave-Society/TC2E-GF-118-35Hz-Subwoofer/blob/master/PARAFLEX%20C-2E%20Golden%20Formula%201x18%20v42.11.pdf)
 
 Other designs using the Paraflex principles where made for midrange and infrasonic frequency ranges. There are always new concepts and designs in progress on the [HOQWS facebook page](https://www.facebook.com/groups/bassaz/).
 

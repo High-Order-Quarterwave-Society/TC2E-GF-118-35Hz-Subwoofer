@@ -15,7 +15,7 @@ New 410mm long 45 degree angle-brace panels (which also serve as the folded & of
 #### HTR filling
 Acoustic damping material such as polyester fiberfill should be added to the angle braces. insert the damping material until it fills up 50% to 60% of the angle-brace's internal volume beginning from the end caps. 
 
-#### Mmouth brace update
+#### Mouth brace update
 A mouth brace has now been included to reduce flex in the mouth exit area, and with the updated merge bracing shape; a b&c 18ds115 is capable of fitting past on an angle. longer drivers will require shortening the brace or making it removable.
 
 ## Dimensions / Volume

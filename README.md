@@ -1,8 +1,8 @@
 # Type C2E-GF-118 rev: 42.11
 The TC2E-GF-118 Golden Formula Paraflex subwoofer was originaly designed by Matthew Morgan J. member of the **Higher Order Quarterwave Society** (HOQWS) which was started in 2013 by Matthew Morgan J, Dustin Morgan (Flex Tech Designs) and J. Vansickle (Paragon Concepts) 
 
-## About Paraflex
-The Paraflex subwoofer is based on a low and high tuned resonator making the design very efficient in it's bandwidth, which was named **Paraflex** for easy naming. Many prototypes and design revisions have been made by members of the HOQWS, continualy improving the design of the cabinet and its different versions.
+### About Paraflex
+The Paraflex subwoofer is based on a Low and High Tuned Resonator (LTR/HTR) making the design very efficient in it's bandwidth, which was named **Paraflex** for easy naming. Many prototypes and design revisions have been made by members of the HOQWS, continualy improving the design of the cabinet and its different versions.
 
 The Golden Formula series of Paraflex subwoofers achieves improved performance by the use of a Throat Chamber in conjunction with an increased rate of expansion in the Low-Tuned Horn resonator section. This increased gain/sensitivity & output within the cabinet's working range, typically comes at the cost of sacrificing some surplus upper extension and can also often require a larger cabinet size. 
 

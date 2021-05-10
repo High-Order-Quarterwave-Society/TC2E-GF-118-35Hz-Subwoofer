@@ -2,7 +2,7 @@
 The TC2E-GF-118 Golden Formula Paraflex subwoofer was originaly designed by Matthew Morgan J. member of the **Higher Order Quarterwave Society** (HOQWS) which was started in 2013 by Matthew Morgan J, Dustin Morgan (Flex Tech Designs) and J. Vansickle (Paragon Concepts) 
 
 # About Paraflex
-The TC2E-GF-118 subwoofer is based on a low and high tuned resonator making the design very efficient in it's bandwidth, which was named **Paraflex** for easy naming. Many prototypes and design revisions have been made by members of the HOQWS, continualy improving the design of the cabinet and its different versions.
+The TC2E-GF-118 Revision 44.11 is the latest update for the TC2E-GF-118, The Paraflex subwoofer is based on a low and high tuned resonator making the design very efficient in it's bandwidth, which was named **Paraflex** for easy naming. Many prototypes and design revisions have been made by members of the HOQWS, continualy improving the design of the cabinet and its different versions.
 
 The Golden Formula series of Paraflex subwoofers achieves improved performance by the use of a Throat Chamber in conjunction with an increased rate of expansion in the Low-Tuned Horn resonator section. This increased gain/sensitivity & output within the cabinet's working range, typically comes at the cost of sacrificing some surplus upper extension and can also often require a larger cabinet size. 
 
@@ -14,9 +14,9 @@ Other designs using the Paraflex principles where made for midrange and infrason
 
 *3D design by Ty Cention. (KaiRonex)*
 
-![Design](https://github.com/High-Order-Quarterwave-Society/TC2E-GF-118/blob/master/PARAFLEX-C-2E-Golden-Formula-118-design.jpg)
+![Design](https://github.com/High-Order-Quarterwave-Society/TC2E-GF-118-35Hz-Subwoofer/blob/master/Paraflex-TC2E-GF-118-rev-44.11-design.png)
 
-![Modal view](https://github.com/High-Order-Quarterwave-Society/TC2E-GF-118/blob/master/PARAFLEX-C-2E-Golden-Formula-118-modal.jpg)
+![Modal view](https://github.com/High-Order-Quarterwave-Society/TC2E-GF-118-35Hz-Subwoofer/blob/master/Paraflex-TC2E-GF-118-rev-44.11.png)
 
 
  #### Honorable contributers and people from all arround the world who shared their knowledge, time, testing builds, prototyping, art work, design work and so much more to the HOQS group:

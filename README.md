@@ -3,6 +3,7 @@ The TC2E-GF-118 Golden Formula Paraflex subwoofer was originaly designed by Matt
 
 # About Paraflex
 The TC2E-GF-118 Revision 42.11 is the latest update for the TC2E-GF-118, The revision updates include tuning of the HTR and added improvements of the cabinents mouth braces. 
+
 The Paraflex subwoofer is based on a low and high tuned resonator making the design very efficient in it's bandwidth, which was named **Paraflex** for easy naming. Many prototypes and design revisions have been made by members of the HOQWS, continualy improving the design of the cabinet and its different versions.
 
 The Golden Formula series of Paraflex subwoofers achieves improved performance by the use of a Throat Chamber in conjunction with an increased rate of expansion in the Low-Tuned Horn resonator section. This increased gain/sensitivity & output within the cabinet's working range, typically comes at the cost of sacrificing some surplus upper extension and can also often require a larger cabinet size. 
